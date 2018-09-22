@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="FUSUsageTrigger">
-    <session id="463726176">
-      <usages-collector id="statistics.spring.core.usages.trigger">
-        <counts>
-          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.spring.boot.run.usages" />
-    </session>
-  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/pingyougou-sellergoods-service" />
-    <file type="web" url="file://$PROJECT_DIR$/pingyougou-sellergoods-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-sellergoods-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-shop-web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/pingyougou-pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/pingyougou-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/pingyougou-sellergoods-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/pingyougou-sellergoods-service/pom.xml" />
-        <option value="$PROJECT_DIR$/pingyougou-sellergoods-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-dao/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-sellergoods-web/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-pojo/pom.xml" />
       </list>
     </option>
   </component>

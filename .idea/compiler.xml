@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pingyougou-common" />
-        <module name="pingyougou-dao" />
-        <module name="pingyougou-pojo" />
-        <module name="pingyougou-sellergoods-interface" />
-        <module name="pingyougou-sellergoods-service" />
-        <module name="pingyougou-sellergoods-web" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-dao" />
         <module name="pinyougou-manager-web" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-sellergoods-interface" />
+        <module name="pinyougou-sellergoods-service" />
+        <module name="pinyougou-sellergoods-web" />
         <module name="pinyougou-shop-web" />
       </profile>
     </annotationProcessing>
